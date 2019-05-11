@@ -1,6 +1,8 @@
 # fastteRgram
 Vector representations for DNA sequences without predefined length of k-mer.
 
+Work in progress so the code and results are subject to change.
+
 Arxiv paper coming soon.
 
 Preregistration page - https://osf.io/pwzgk/
