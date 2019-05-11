@@ -1,4 +1,4 @@
-# fasttergram
+# fastteRgram
 Vector representations for DNA sequences without predefined length of k-mer.
 
 Arxiv paper coming soon.
